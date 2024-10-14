@@ -7,7 +7,7 @@
     "image": "/avatar.png",
     "email": "correodeprueba@pruebacorreo.com",
     "url": "",
-    "summary": "Nacido in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "summary": "Nacido en el 2000, con conocimienestudios en ASIR, robótica y automatización industrial y ciberseguridad, disfruto de explorar las tecnologías más punteras y aprender cada día sobre el mundo que me rodea",
     "theme": "red",
     "location": {
       "address": "Las Gabias",
@@ -26,13 +26,37 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
+      "institution": "IES Montevives",
       "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
+      "area": "Bachillerato de Ciencias",
+      "studyType": "Estudiante a tiempo completo",
+      "startDate": "15-9-2016",
+      "endDate": "21-6-2019"
+    },
+    {
+      "institution": "Zaidín Vergeles",
+      "url": "",
+      "area": "ASIR (Administración de Sistemas Informáticos en Red)",
+      "studyType": "Estudiante a tiempo completo",
+      "startDate": "15-9-2019",
+      "endDate": "21-6-2021"
+    },
+    {
+      "institution": "Ave María San Cristóbal",
+      "url": "",
+      "area": "ARI (Automatización y Robótica Industrial)",
+      "studyType": "Estudiante a tiempo completo",
+      "startDate": "15-9-2021",
+      "endDate": "21-6-2023"
+    },
+    {
+      "institution": "Mercedarias",
+      "url": "",
+      "area": "Ciberseguridad",
+      "studyType": "Estudiante a tiempo completo",
+      "startDate": "15-9-2024",
       "endDate": null
-    }
+    }    
   ],
   "certificates": [
     {
