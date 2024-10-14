@@ -30,31 +30,31 @@
       "url": "",
       "area": "Bachillerato de Ciencias",
       "studyType": "Estudiante a tiempo completo",
-      "startDate": "15-9-2016",
-      "endDate": "21-6-2019"
+      "startDate": "2016",
+      "endDate": "2019"
     },
     {
       "institution": "Zaidín Vergeles",
       "url": "",
       "area": "ASIR (Administración de Sistemas Informáticos en Red)",
       "studyType": "Estudiante a tiempo completo",
-      "startDate": "15-9-2019",
-      "endDate": "21-6-2021"
+      "startDate": "2019",
+      "endDate": "021"
     },
     {
       "institution": "Ave María San Cristóbal",
       "url": "",
       "area": "ARI (Automatización y Robótica Industrial)",
       "studyType": "Estudiante a tiempo completo",
-      "startDate": "15-9-2021",
-      "endDate": "21-6-2023"
+      "startDate": "2021",
+      "endDate": "2023"
     },
     {
       "institution": "Mercedarias",
       "url": "",
       "area": "Ciberseguridad",
       "studyType": "Estudiante a tiempo completo",
-      "startDate": "15-9-2024",
+      "startDate": "2024",
       "endDate": null
     }    
   ],
