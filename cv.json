@@ -74,14 +74,14 @@
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "name": "Juzgados La Caleta",
+      "position": "Tecnico de redes y microinformático.",
+      "location_type": "Presenciañ",
+      "location": "ES",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Prácticas en las que ayudaba con el control de los servidores y ayudaba con problemas informáticos a los trabajadores del juzgado.",
       "highlights": [
         "Enhanced internal workflow efficiency by 30%."
       ],
