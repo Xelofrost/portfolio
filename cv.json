@@ -60,16 +60,16 @@
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
+      "name": "C1 en inglés",
+      "date": "2022",
       "url": "",
-      "issuer": "Myself"
+      "issuer": "Anglia"
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
+      "name": "Prevención de Riesgos Laborales",
+      "date": "2023",
       "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": "Grupo Inprex"
     }
   ],
   "work": [
