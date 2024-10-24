@@ -43,7 +43,7 @@ import { Icon } from 'astro-icon/components'
               <div class="mt-4  print:gap-0 flex flex-col gap-4 print:text-xs text-sm">
                 {summary && (
                   <div class="flex flex-col gap-1">
-                    <h4>Summary:</h4>
+                    <h4>Resumen:</h4>
                     <ul class="text-skin-muted [&>li]:ml-4 flex list-disc flex-col gap-2">
                       {Array.isArray(summary) ? (
                         summary.map(item => (
@@ -60,7 +60,7 @@ import { Icon } from 'astro-icon/components'
                 <div class="after:from-skin-hue dark:after:to-skin-hue/0 flex relative flex-col print:!h-auto gap-4 print:gap-2 after:bg-gradient-to-t after:absolute after:bottom-0 after:w-full print:after:hidden after:h-12 after:content-[''] h-16 group-data-[expanded=true]:after:hidden group-data-[expanded=true]:h-auto overflow-hidden duration-200 ease-out">
                 {responsibilities && (
                   <div class="flex flex-col gap-1">
-                    <h4>Responsibilities:</h4>
+                    <h4>Responsabilidades:</h4>
                     <ul class="text-skin-muted [&>li]:ml-4 flex list-disc flex-col gap-2">
                       {responsibilities.map(responsibility => (
                         <li>{responsibility}</li>
@@ -71,7 +71,7 @@ import { Icon } from 'astro-icon/components'
 
                 {achievements && (
                   <div class="flex flex-col gap-1">
-                    <h4>Achievements:</h4>
+                    <h4>Logros:</h4>
                     <ul class="text-skin-muted [&>li]:ml-4 flex list-disc flex-col gap-2">
                       {achievements.map(achievement => (
                         <li>{achievement}</li>
