@@ -22,9 +22,11 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: lts/*
+    - name: Install pnpm
+      run:  npm install -g pnpm
     - name: Install deps and build
       run: |
-        pnpm i
+        pnpm install
         pnpm run build
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
