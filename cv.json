@@ -85,6 +85,9 @@
       "responsibilities": [
         "Encargado de microinformática y ayudante de administrador de red."
       ],
+      "achievements": [
+        "Ensured smooth project execution."
+      ],
       "skills": {
         "PHP": "simple-icons:php",
         "SQL": "simple-icons:mysql",
@@ -99,11 +102,15 @@
       "position": "Técnico Programador ",
       "location_type": "Presencial",
       "location": "ES",
+      
       "startDate": "2023",
       "endDate": "2024",
       "summary": "Programador de sistemas automatizados para edificios inteligentes.",
       "responsibilities": [
         "Desarrollar programas de automatización del clima para PLCs."
+      ],
+      "achievements": [
+        ""
       ],
       "skills": {
         "Vite": "simple-icons:vite",
@@ -236,6 +243,11 @@
   "projects": [
     {
       "name": "Illoware",
+      "image": {
+        "url": "",
+        "position": "",
+        "dark": ""
+      },
       "isActive": true,
       "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
       "highlights": [
