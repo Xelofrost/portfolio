@@ -69,16 +69,6 @@ import { Icon } from 'astro-icon/components'
                   </div>
                 )}
 
-                {achievements && (
-                  <div class="flex flex-col gap-1">
-                    <h4>Logros:</h4>
-                    <ul class="text-skin-muted [&>li]:ml-4 flex list-disc flex-col gap-2">
-                      {achievements.map(achievement => (
-                        <li>{achievement}</li>
-                      ))}
-                    </ul>
-                  </div>
-                )}
                 </div>
 
                 <button class="print:hidden group/more w-fit cursor-pointer items-center justify-center gap-1.5 text-xs underline text-skin-muted transition-all hover:text-skin-base flex expand-button">
