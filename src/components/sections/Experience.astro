@@ -70,13 +70,6 @@ import { Icon } from 'astro-icon/components'
                 )}
 
                 </div>
-
-                <button class="print:hidden group/more w-fit cursor-pointer items-center justify-center gap-1.5 text-xs underline text-skin-muted transition-all hover:text-skin-base flex expand-button">
-                  <span class="expand-text">Show more</span>
-                  <Icon name="ri:arrow-up-s-line" class="w-4 h-4 group-hover/more:translate-y-0.5 duration-200 ease-out group-data-[expanded=true]:rotate-180" width={24} height={24}></Icon>
-                </button>
-
-
                 <ul class="flex print:hidden flex-wrap gap-2" aria-label="Technologies used">
                   {skills && Object.entries(skills).map(([label, icon]) =>  (
                       <li class="bg-skin-button-accent/20 border-skin-hue/20 text-skin-hue print:p-0 print:bg-transparent print:text-zinc-800 flex gap-1 items-center border-solid print:border-none border rounded-md px-2 py-0.5 text-xs backdrop-blur-sm">
